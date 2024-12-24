@@ -1,12 +1,17 @@
 #balloonOne {
-    height: 1rem;
+    height: 15rem;
 }
 #balloonTwo {
-    height: 1rem;
+    height: 15rem;
 }
 #balloonThree {
-    height: 1rem;
+    height: 15rem;
 }
 #balloonFour {
-    height: 1rem;
+    height: 15rem;
+}
+
+
+#expandButton {
+    color: black;
 }
